@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Semyon
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+!+I+am+Semyon+!)](https://git.io/typing-svg)
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzB0YmZsbHJuNzEyZjVramNoYXo1dXR4YnhubzF6cmc1N2J3cmo5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif" width="100"/>
 </div>
