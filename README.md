@@ -16,6 +16,7 @@
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trytonottry)](https://github.com/anuraghazra/github-readme-stats)
+
 [![codewars](https://www.codewars.com/users/Trytonottry/badges/large)](https://www.codewars.com/users/Trytonottry)   
 
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
