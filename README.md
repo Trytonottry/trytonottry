@@ -28,4 +28,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=Trytonottry&style=flat-square&color=blue" alt=""/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trytonottry&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
