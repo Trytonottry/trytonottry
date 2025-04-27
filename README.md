@@ -6,14 +6,6 @@
 
 Я разработчик, специализируюсь на веб и бэкенд-разработке. Работаю с Python, C/C++, TypeScript, Node.js и React. Увлекаюсь созданием эффективных приложений и решением задач на Codewars и HackerRank.
 
-Мои навыки:
-
-Python
-C
-C++
-TypeScript
-Node.js
-React
 
 Статистика
 
