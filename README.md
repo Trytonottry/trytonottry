@@ -68,7 +68,9 @@
 <picture> <source srcset="https://github-readme-stats.vercel.app/api?username=trytonottry&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=trytonottry&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img src="https://github-readme-stats.vercel.app/api?username=trytonottry&show_icons=true" /> </picture>
 </p>
 
-<p align="right"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trytonottry)](https://github.com/anuraghazra/github-readme-stats) </p>
+<p align="right"> 
+  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Trytonottry)(https://github.com/anuraghazra/github-readme-stats)" 
+    </p>
 
 
 
