@@ -58,12 +58,12 @@
 
 ###
 
-<p align="left"> 
+<p align="center"> 
   <img src=(https://github-readme-stats.vercel.app/api/top-langs/?username=Trytonottry)(https://github.com/anuraghazra/github-readme-stats) 
     </p>
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryToNotTry&layout=compact&theme=default&hide_border=true&langs_count=10" alt="Top Languages" />
-<p align="right">
+<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryToNotTry&layout=compact&theme=default&hide_border=true&langs_count=10" alt="Top Languages" />
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Trytonottry&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
