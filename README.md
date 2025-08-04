@@ -58,17 +58,14 @@
 
 ###
 
-<p align="center"> 
+<p align="left"> 
   <img src=(https://github-readme-stats.vercel.app/api/top-langs/?username=Trytonottry)(https://github.com/anuraghazra/github-readme-stats) 
     </p>
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryToNotTry&layout=compact&theme=default&hide_border=true&langs_count=10" alt="Top Languages" />
+<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryToNotTry&layout=compact&theme=default&hide_border=true&langs_count=10" alt="Top Languages" />
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Trytonottry&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
 <!-- Stack Overflow -->
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30386957/try2nottry)
-
-
-<img src="https://komarev.com/ghpvc/?username=trytonottry&style=flat-square&color=blue" alt="Profile views"/>
