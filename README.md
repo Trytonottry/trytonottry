@@ -53,12 +53,6 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trytonottry&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
-</p>
-
-###
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Trytonottry&theme=radical&no-frame=true&no-bg=true&margin-w=4">
 </p>
 
@@ -69,6 +63,9 @@
     </p>
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryToNotTry&layout=compact&theme=default&hide_border=true&langs_count=10" alt="Top Languages" />
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=Trytonottry&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
 
 <!-- Stack Overflow -->
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30386957/try2nottry)
