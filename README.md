@@ -68,7 +68,7 @@
   <img src=(https://github-readme-stats.vercel.app/api/top-langs/?username=Trytonottry)(https://github.com/anuraghazra/github-readme-stats) 
     </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TryToNotTry&layout=compact&theme=default&hide_border=true&langs_count=6)
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryToNotTry&layout=compact&theme=default&hide_border=true&langs_count=10" alt="Top Languages" />
 
 <!-- Stack Overflow -->
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30386957/try2nottry)
