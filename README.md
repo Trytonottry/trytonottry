@@ -71,10 +71,10 @@
 <!-- Stack Overflow -->
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30386957/try2nottry)
 
-<!-- Codewars -->
-[![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Trytonottry)
+#<!-- Codewars -->
+#[![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Trytonottry)
 
-<!-- HackerRank -->
-[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/arbitr777cpa)
+#<!-- HackerRank -->
+#[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/arbitr777cpa)
 
 <img src="https://komarev.com/ghpvc/?username=trytonottry&style=flat-square&color=blue" alt="Profile views"/>
