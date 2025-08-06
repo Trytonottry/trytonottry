@@ -1,71 +1,57 @@
-<h1 align="center">🐉 TryToNotTry / experienced coder </h1>
+# Meet Semyon 👋
 
-###
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trytonottry)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trytonottry)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-</div>
+🌟 **Highlighted Projects:**
+- [**riscv-secure-os**](link-to-riscv-secure-os): A secure operating system for RISC-V architecture
+- [**wav2uart**](link-to-wav2uart): A tool to convert WAV files to UART streams
+- [**WiFiSec Android App**](link-to-WiFiSec-Android-App): An Android app for WiFi security
+- [**DarkWeb Detect Flutter App**](link-to-DarkWeb-Detect-Flutter-App): A Flutter app for dark web breach detection
 
-###
+💼 **Skills & Interests:**
+- **Languages:** Python, C/C++, TypeScript, Node.js, React
+- **Coding Habits:** Consistent engagement with 139 commits
+- **Focus:** Cybersecurity, Information Security, IoT Security
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-</div>
+🔗 **Connect with Semyon:**
+- GitHub: [Trytonottry](https://github.com/Trytonottry)
 
-###
+🏆 **GitHub Trophies:** 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Trytonottry)](https://github.com/Trytonottry)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-</div>
+✨ **Fun Fact About Semyon:** "There are two ways to write error-free programs; only the third one works" 
 
-###
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Trytonottry&theme=radical&no-frame=true&no-bg=true&margin-w=4">
-</p>
+```javascript
+const semyon = {
+  pronouns: "He" | "Him",
+  code: ["Python", "C/C++", "TypeScript", "Node.js", "React"],
+  askMeAbout: ["Web Dev", "Backend Dev", "Cybersecurity"],
+  technologies: {
+    backEnd: {
+      languages: ["Python", "C/C++", "TypeScript"],
+      frameworks: ["Node.js", "Express"]
+    },
+    frontEnd: {
+      languages: ["JavaScript", "TypeScript"],
+      libraries: ["React", "Vue"]
+    },
+    devOps: ["Docker🐳", "AWS"],
+    databases: ["MySQL", "SQLite", "MongoDB"],
+    misc: ["IoT Security", "WAV to UART Conversion", "Dark Web Breach Detection"]
+  },
+  architecture: ["Microservices", "Serverless"],
+  currentFocus: "Exploring new cybersecurity challenges",
+  funFact: "The only truly secure system is one that is powered off"
+};
+```
 
-###
+---
 
-<p align="center"> 
-  <img src=(https://github-readme-stats.vercel.app/api/top-langs/?username=Trytonottry)(https://github.com/anuraghazra/github-readme-stats) 
-    </p>
+Let's connect and collaborate on secure software development! 🚀
 
-<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryToNotTry&layout=compact&theme=default&hide_border=true&langs_count=10" alt="Top Languages" />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trytonottry&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
-</p>
+Feel free to reach out to Semyon through GitHub. Let's secure the digital world together! 🛡️
 
-<!-- Stack Overflow -->
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30386957/try2nottry)
+Architects of a safe cyberspace. 🌐
