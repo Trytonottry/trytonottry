@@ -4,10 +4,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trytonottry)
 
 🌟 **Highlighted Projects:**
-- [**riscv-secure-os**](link-to-riscv-secure-os): A secure operating system for RISC-V architecture
-- [**wav2uart**](link-to-wav2uart): A tool to convert WAV files to UART streams
-- [**WiFiSec Android App**](link-to-WiFiSec-Android-App): An Android app for WiFi security
-- [**DarkWeb Detect Flutter App**](link-to-DarkWeb-Detect-Flutter-App): A Flutter app for dark web breach detection
+- [**riscv-secure-os**](https://github.com/Trytonottry/riscv-secure-os): A secure operating system for RISC-V architecture
+- [**wav2uart**](https://github.com/Trytonottry/wav2uart): A tool to convert WAV files to UART streams
+- [**WiFiSec Android App**](https://github.com/Trytonottry/wifi-bodyguard): An Android app for WiFi security
+- [**DarkWeb Detect Flutter App**](https://github.com/Trytonottry/dark-breach-radar): A Flutter app for dark web breach detection
 
 💼 **Skills & Interests:**
 - **Languages:** Python, C/C++, TypeScript, Node.js, React
