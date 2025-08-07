@@ -16,7 +16,7 @@
 
 🔗 **Connect with Semyon:**
 - GitHub: [Trytonottry](https://github.com/Trytonottry)
-- Email: try2nottry.developer@gmail.com
+- Email: popovsemyona@gmail.com
 
 🏆 **GitHub Trophies:** 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Trytonottry)](https://github.com/Trytonottry)
