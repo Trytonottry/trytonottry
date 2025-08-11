@@ -17,37 +17,26 @@
 🔗 **Connect with Semyon:**
 - GitHub: [Trytonottry](https://github.com/Trytonottry)
 - Email: popovsemyona@gmail.com
+# Привет! Я Try2NotTry 👋
+> Студент, который становится специалистом по кибербезопасности 🛡️
 
-🏆 **GitHub Trophies:** 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Trytonottry)](https://github.com/Trytonottry)
+🔧 Учусь:  
+- Пентестинг и этичный хакинг  
+- Веб-безопасность (XSS, SQLi, CSRF)  
+- Анализ сетевого трафика и логов  
+- Автоматизация на Python  
 
-✨ **Fun Fact About Semyon:** "There are two ways to write error-free programs; only the third one works" 
+📚 Прохожу:  
+- TryHackMe (Room: Complete Beginner, OWASP Top 10)  
+- PortSwigger Web Security Academy  
 
----
+🛠️ Инструменты:  
+`nmap` `Burp Suite` `Wireshark` `Metasploit` `Python`
 
-```javascript
-const semyon = {
-  pronouns: "He" | "Him",
-  code: ["Python", "C/C++", "TypeScript", "Node.js", "React"],
-  askMeAbout: ["Web Dev", "Backend Dev", "Cybersecurity"],
-  technologies: {
-    backEnd: {
-      languages: ["Python", "C/C++", "TypeScript"],
-      frameworks: ["Node.js", "Express"]
-    },
-    frontEnd: {
-      languages: ["JavaScript", "TypeScript"],
-      libraries: ["React", "Vue"]
-    },
-    devOps: ["Docker🐳", "AWS"],
-    databases: ["MySQL", "SQLite", "MongoDB"],
-    misc: ["IoT Security", "WAV to UART Conversion", "Dark Web Breach Detection"]
-  },
-  architecture: ["Microservices", "Serverless"],
-  currentFocus: "Exploring new cybersecurity challenges",
-  funFact: "The only truly secure system is one that is powered off"
-};
-```
+📖 Мои заметки: [cyber-notes](https://github.com/Trytonottry/cyber-notes)  
+🎮 Разборы CTF: [ctf-writeups](https://github.com/Trytonottry/ctf-writeups)
+
+📫 Хочешь пообщаться? Пиши в Issues или на почту: `try2nottry@...`
 
 ---
 
