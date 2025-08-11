@@ -11,7 +11,7 @@
 
 💼 **Skills & Interests:**
 - **Languages:** Python, C/C++, TypeScript, Node.js, React
-- **Coding Habits:** Consistent engagement with 140 commits
+- **Coding Habits:** Consistent engagement with 194 commits
 - **Focus:** Cybersecurity, Information Security, IoT Security
 
 🔗 **Connect with Semyon:**
