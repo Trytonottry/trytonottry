@@ -36,7 +36,7 @@
 📖 Мои заметки: [cyber-notes](https://github.com/Trytonottry/cyber-notes)  
 🎮 Разборы CTF: [ctf-writeups](https://github.com/Trytonottry/ctf-writeups)
 
-📫 Хочешь пообщаться? Пиши в Issues или на почту: `try2nottry@...`
+📫 Хочешь пообщаться? Пиши в Issues или на почту: `popovsemyona@gmail.com`
 
 ---
 
