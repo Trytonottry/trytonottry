@@ -2,6 +2,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trytonottry)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trytonottry)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5080349" style='border:none;'></iframe>
 
 🌟 **Highlighted Projects:**
 - [**riscv-secure-os**](https://github.com/Trytonottry/riscv-secure-os): A secure operating system for RISC-V architecture
