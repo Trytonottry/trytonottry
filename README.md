@@ -11,12 +11,14 @@
 
 💼 **Skills & Interests:**
 - **Languages:** Python, C/C++, TypeScript, Node.js, React
-- **Coding Habits:** Consistent engagement with 194 commits
+- **Coding Habits:** Consistent engagement with 200+ commits
 - **Focus:** Cybersecurity, Information Security, IoT Security
 
 🔗 **Connect with Semyon:**
 - GitHub: [Trytonottry](https://github.com/Trytonottry)
+- GitLab: [Semyon Popov](https://gitlab.com/Trytonottry2)
 - Email: popovsemyona@gmail.com
+- 
 # Привет! Я Try2NotTry 👋
 > Студент, который становится специалистом по кибербезопасности 🛡️
 
