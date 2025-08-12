@@ -17,8 +17,9 @@
 🔗 **Connect with Semyon:**
 - GitHub: [Trytonottry](https://github.com/Trytonottry)
 - GitLab: [Semyon Popov](https://gitlab.com/Trytonottry2)
+- TryHackMe [TryToNotTry](https://tryhackme.com/p/TryToNotTry)
 - Email: popovsemyona@gmail.com
-- 
+
 # Привет! Я Try2NotTry 👋
 > Студент, который становится специалистом по кибербезопасности 🛡️
 
