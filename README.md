@@ -49,29 +49,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
-## 🏆 Прогресс и достижения
-
-### 🎖️ TryHackMe
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Trytonottry.png)](https://tryhackme.com/p/Trytonottry)  
-- Курсы пройдены:  
-  - Complete Beginner ✅  
-  - OWASP Top 10 ✅  
-  - Pre Security ✅  
-- Двигаюсь к уровням **Adventurer / Hacker / Security Engineer**
-
----
-
-### 🎖️ PortSwigger Web Security Academy
-![SQL Injection](https://img.shields.io/badge/SQL%20Injection-3C873A?style=for-the-badge&logo=owasp&logoColor=white)
-![XSS](https://img.shields.io/badge/Cross%20Site%20Scripting-FF0000?style=for-the-badge&logo=owasp&logoColor=white)
-![CSRF](https://img.shields.io/badge/CSRF-7952B3?style=for-the-badge&logo=owasp&logoColor=white)
-![Authentication](https://img.shields.io/badge/Auth%20Vulns-4285F4?style=for-the-badge&logo=owasp&logoColor=white)  
-
-- Пройдены модули:
-  - **SQLi, XSS, CSRF, Authentication**  
-  - В процессе: Server-Side, Business Logic, Insecure Deserialization  
 
 ---
 
