@@ -13,7 +13,7 @@
 - 🧰 Работаю с инструментами: `nmap`, `Burp Suite`, `Wireshark`, `Metasploit`, `Python`, `Docker`, `GitHub Actions`.
 - 🌍 Локация: Испания  
 
-📫 Для связи: **popovsemyona@gmail.com** | [Telegram](https://t.me/moriartyyyyy) | [TryHackMe](https://tryhackme.com/p/Trytonottry)  
+📫 Для связи: **trytonottry@proton.me** | [Telegram](https://t.me/moriartyyyyy) | [TryHackMe](https://tryhackme.com/p/Trytonottry)  
 
 ---
 
