@@ -63,7 +63,7 @@
 ---
 
 ## 📈 GitHub статистика
-![GitHub Stats]([![Semyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trytonottry)](https://github.com/anuraghazra/github-readme-stats))  
+![Semyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trytonottry)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trytonottry&layout=compact&theme=tokyonight)
 
 ---
